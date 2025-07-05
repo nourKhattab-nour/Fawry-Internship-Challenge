@@ -1,0 +1,9 @@
+com\mycompany\fawryproject\NonShippableProduct.class
+com\mycompany\fawryproject\Shippable.class
+com\mycompany\fawryproject\ExpiringProduct.class
+com\mycompany\fawryproject\CartItem.class
+com\mycompany\fawryproject\FawryProject.class
+com\mycompany\fawryproject\Customer.class
+com\mycompany\fawryproject\ShippingService.class
+com\mycompany\fawryproject\NonExpiringProduct.class
+com\mycompany\fawryproject\Product.class
